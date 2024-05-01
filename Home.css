@@ -1,16 +1,16 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 332px;
+  min-height: 311px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-family: Anton;
   width: 573px;
-  margin: 30px auto 0;
+  margin: 52px auto 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 25px 30px 60px;
+  margin: 52px 30px 60px;
 }
 
 @media (max-width: 1199px) {
@@ -48,7 +48,7 @@
     margin-right: 400px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 575px;
+  min-height: 576px;
 }
 
 .u-section-2 .u-text-1 {
